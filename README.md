@@ -1,4 +1,4 @@
-# Student Grade Prediction Using Linear Regression
+# Student Grade Prediction Using Linear Regression and Python
 
 This project implements a supervised machine learning model using linear regression to predict the percentage a student will achieve based on the number of hours they study. The model is trained on a dataset containing the number of hours studied and the corresponding grades obtained by students.
 
